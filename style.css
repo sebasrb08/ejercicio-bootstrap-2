@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    background: rgb(45,159,253);
+    background: linear-gradient(95deg, rgba(130, 186, 233, 0.988) 48%, rgba(34,195,186,1) 100%, rgba(34,193,187,1) 100%); 
+}
+tr{
+    text-align: center;
+}
